@@ -111,7 +111,7 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width: 100%;
-  background: url("images/background.png") no-repeat;
+  background : url("https://png.pngtree.com/thumb_back/fh260/background/20190220/ourmid/pngtree-watercolor-light-yellow-light-green-pink-color-image_7008.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -265,44 +265,13 @@ section .button button:hover{
    justify-content: space-between;
    align-items: center;
  }
- .skills-details .text{
-   width: 50%;
- }
- .skills-details p{
-   color: #0E2431;
-   text-align: justify;
- }
-.skills .skills-details .experience{
-  display: flex;
-  align-items: center;
-  margin: 0 10px;
-}
-.skills-details .experience .num{
-  color: #0E2431;
-  font-size: 80px;
-}
-.skills-details .experience .exp{
-  color: #0E2431;
-  margin-left: 20px;
-  font-size: 18px;
-  font-weight: 500;
-  margin: 0 6px;
-}
 .skills-details .boxes{
   width: 45%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
-.skills-details .box{
-  width: calc(100% / 2 - 20px);
-  margin: 20px 0;
-}
 .skills-details .boxes .topic{
-  font-size: 20px;
-  color: #4070f4;
-}
-.skills-details .boxes .per{
   font-size: 60px;
   color: #4070f4;
 }
